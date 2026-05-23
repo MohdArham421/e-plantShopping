@@ -1,1 +1,4 @@
-# coding-project-template
+E Plant Shopping
+
+
+npm i
